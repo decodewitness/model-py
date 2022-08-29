@@ -1,4 +1,4 @@
-### Model-Py
+### Model-Py (Model 1)
 #### Version: v.0.0-1a
 ##### Author: Vera Lo
 
