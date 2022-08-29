@@ -3,4 +3,4 @@
 ##### Author: Vera Lo
 
 First iteration of an Ai model written in Python.
-This is still a work in progress, and is nowhere near complete.
+This is still a -work in progress- and is nowhere near complete.
